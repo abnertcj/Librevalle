@@ -29,4 +29,4 @@ Modified by abnertcj
 
 ## View
 
-[View the website](http://abnertcj.github.io/Librevalle/)
+[Link to website](http://abnertcj.github.io/Librevalle/)
